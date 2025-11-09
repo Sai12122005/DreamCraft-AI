@@ -1,0 +1,7 @@
+{
+  "name": "DreamCraft AI",
+  "description": "An advanced full-stack AI system that behaves like Google AI Studio, designed to instantly turn user ideas into fully functional applications. It features a chat-based interface, multi-language support, and a deployment assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
